@@ -1,10 +1,8 @@
-# chatflutterapp
+# Chat Flutter App
 
-A new Flutter application.
+I have created a simple Chat App UI. You folks can have your own modifications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+<img src="Chat.png" alt="Chat app" width="300" height="600">
 
 A few resources to get you started if this is your first Flutter project:
 
